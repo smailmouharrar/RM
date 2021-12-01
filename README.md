@@ -22,7 +22,7 @@ The repository contains the following modules :
 - RM_plot module for python (matplotlib) visualization code. 
 </p>
 <p>
-The target analysis period is passed as parametre to our import_data function as well as tikers symobles.
+The target analysis period is passed as parametre to our import_data function as well as Tickers symbols.
 </p>
 
 
