@@ -1,7 +1,7 @@
 # Measures of  Risk  : custom Python module code to build and analyse efficient portfolio strategies. 
 
 Welcome to my repository for return and risk measures with python.
-An fficient Portfolio produces the best possible expected level of return for the level of risk, or the lowest risk for a target return...
+An efficient Portfolio produces the best possible expected level of return for the level of risk, or the lowest risk for a target return...
 ***
 
 
