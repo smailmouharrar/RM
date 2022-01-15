@@ -4,7 +4,7 @@ Welcome to my repository for return and risk measures with python.
 An efficient Portfolio produces the best possible expected level of return for the level of risk, or the lowest risk for a target return...
 ***
 
-
+</p>
 # Table of Contents
 
 - [Measures of  Risk](#Measures-of-Risk)
@@ -18,8 +18,14 @@ An efficient Portfolio produces the best possible expected level of return for t
 
 <p>
 The repository contains the following modules :
+</p> 
+<p>
 - RM module, wraps custom python functions to compute analysis.
+</p>
+<p>
 - RM_plot module for python (matplotlib) visualization code.
+ </p>
+ <p>
 - Application folder contains practice senarios. 
 </p>
 
