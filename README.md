@@ -9,7 +9,7 @@ An efficient Portfolio produces the best possible expected level of return for t
 
 - [Measures of  Risk](#Measures-of-Risk)
 - [Table of Contents](#Table-of-Contents)
-- [Sharpe Ratio](../blob/master/applications/sharpe_ratio.ipynb)
+- [Sharpe Ratio](https://github.com/smailmouharrar/RM/blob/master/applications/sharpe_ratio.ipynb)
 - [Notes](#Notes)
 
 
